@@ -1,0 +1,3 @@
+"ip":"TheBestFriendsGG.aternos.me"
+"port":"29457",
+"name":"Ghochufo"
